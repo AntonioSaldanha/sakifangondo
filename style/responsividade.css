@@ -1,0 +1,20 @@
+@media only screen and (max-width: 600px){
+/* smartphones de 600px para baixo */
+
+}
+@media only screen and (min-width: 600px){
+/* dispositivos um pouco maiores que smartphones, mas ainda pequenoas */
+
+}
+@media only screen and (min-width: 768px){
+/* dispositivos médio, tabletes deitado */
+
+}
+@media only screen and (min-width: 992px){
+/* dispositivos largos, laptops e desktops */
+
+}
+@media only screen and (min-width: 1200px){
+/* dispositivos super largos, telas maiores etc... */
+
+}
